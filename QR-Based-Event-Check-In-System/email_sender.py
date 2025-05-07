@@ -25,8 +25,8 @@ def send_email_with_qr(email_receiver, event_id, event_name, qr_code_path):
         qr_code_path (str): The path to the QR code image
     """
     try:
-        email_sender = 'dkudesiaa.gzb@gmail.com'
-        email_password = 'jhdh vvwo nexn dcce'
+        email_sender = 'your_temp_email_id'
+        email_password = 'generated_pass'
         
         subject = f'Event Check-in QR Code for: {event_name}'
         body = f"""
