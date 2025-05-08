@@ -120,5 +120,5 @@ Recommendations
 
 Screenshots/GIFs: Add visuals to this README to showcase the app’s interface and QR scanning process.
 Deployment: Consider deploying the app on Streamlit Cloud or a similar platform for broader access.
-Testing: Test QR scanning across different devices to ensure webcam compatibility. shibu
+Testing: Test QR scanning across different devices to ensure webcam compatibility.
 
