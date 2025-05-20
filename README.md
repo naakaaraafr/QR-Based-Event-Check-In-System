@@ -45,7 +45,7 @@ This project is a QR code-based event check-in system designed to streamline eve
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/QR-Based-Event-Check-In-System.git
+git clone https://github.com/naakaarafr/QR-Based-Event-Check-In-System.git
 cd QR-Based-Event-Check-In-System
 ```
 
